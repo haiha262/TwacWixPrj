@@ -1,3 +1,4 @@
+<script>
 function() {
 	var rad = document.getElementsByName("c_000000da");
     var prev = null;
@@ -11,4 +12,4 @@ function() {
         };
     }
 }
-
+</script>
