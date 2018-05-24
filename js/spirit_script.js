@@ -1,3 +1,5 @@
+
+$( document ).ready(function() {
 var rad = document.getElementsByName("c_000000da");
     var prev = null;
     for(var i = 0; i < rad.length; i++) {
@@ -10,3 +12,4 @@ var rad = document.getElementsByName("c_000000da");
         };
     }
 
+});
